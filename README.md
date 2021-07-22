@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KateBrunenko
+- 👀 I’m currently looking for talanted Angular and Node.js Developers to join our team.
+- 📫 How to reach me - @loki_kuzco in telegram or via email brunenkohr@gmail.com
